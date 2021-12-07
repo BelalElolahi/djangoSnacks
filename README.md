@@ -1,3 +1,3 @@
-# Lab: Django Models
+# Lab: Django CURD
 
-## [PR](https://github.com/BelalElolahi/djangoSnacks/pull/1)
+## [PR](https://github.com/BelalElolahi/djangoSnacks/pull/3)
