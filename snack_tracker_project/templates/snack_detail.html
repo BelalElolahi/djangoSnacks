@@ -19,5 +19,7 @@
    <p>
     {{snack.description}}
    </p>
+   <button><a href="/delete{{snack.get_absolute_url}}" >Delete </a></button>
+   <button><a href="/update{{snack.get_absolute_url}}">Update </a></button>
 
 {% endblock %}
